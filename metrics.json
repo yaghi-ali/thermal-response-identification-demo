@@ -1,0 +1,9 @@
+{
+  "baseline_c": 22.013975874278366,
+  "temperature_rise_c": 14.988183832752371,
+  "time_constant_s": 35.10276142504033,
+  "settling_95_s": 105.15847529185939,
+  "heldout_rmse_c": 0.154711790442155,
+  "seed": 42,
+  "data": "synthetic"
+}
